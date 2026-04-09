@@ -62,17 +62,20 @@ When 25% of the visual space was violently occluded:
 
 Getting Started
 Clone the repository:
-
+text```
 Bash
 git clone [https://github.com/yourusername/TBT-PyTorch-Architecture.git](https://github.com/yourusername/TBT-PyTorch-Architecture.git)
 cd TBT-PyTorch-Architecture
+```
 Install the required dependencies:
-
+text```
 Bash
 pip install -r requirements.txt
+```
 Run the primary evaluation notebook:
+text```
 Navigate to /notebooks/02_Training_and_Evaluation.ipynb to view the training loops, or run the complete pipeline locally.
-
+```
 Contact & Research
 Luca D'stasio Undergraduate Researcher | Cognitive Science & Philosophy
 
