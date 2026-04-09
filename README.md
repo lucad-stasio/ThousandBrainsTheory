@@ -58,7 +58,7 @@ When 25% of the visual space was violently occluded:
 │   └── visualizer.py         # Matplotlib learning curve generation
 ├── requirements.txt
 └── README.md
-text```
+```
 
 Getting Started
 Clone the repository:
