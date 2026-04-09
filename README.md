@@ -64,7 +64,7 @@ Getting Started
 Clone the repository:
 ```text
 Bash
-git clone [https://github.com/yourusername/TBT-PyTorch-Architecture.git](https://github.com/yourusername/TBT-PyTorch-Architecture.git)
+git clone [https://github.com/lucad-stasio/ThousandBrainsTheory.git)
 cd TBT-PyTorch-Architecture
 ```
 
